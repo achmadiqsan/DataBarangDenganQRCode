@@ -16,7 +16,8 @@ Environment :
 1. Delphi 7
 2. Component CJV Barcode (https://github.com/achmadiqsan/CJVBarcode)
 3. Ms. Access 2019 (Database)
-4. Barcode to PC (https://barcodetopc.com/)
+4. Barcode to PC App For PC (https://barcodetopc.com/)
+5. Barcode to PC App For Mobile (https://play.google.com/store/apps/details?id=com.barcodetopc&hl=en_US&pli=1)
 
 Quote : "Maka sesungguhnya beserta kesulitan ada kemudahan, sesungguhnya beserta kesulitan itu ada kemudahan." Q.S Al-Insyirah (5-6)
 
