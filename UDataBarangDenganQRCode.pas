@@ -269,7 +269,7 @@ begin
       Dm.ADOBarang.Close;
       Dm.ADOBarang.Open;
       Dm.ADOBarang.Filtered := False;
-      DM.ADOBarang.Filter :='unitPrice LIKE '+Quotedstr('%'+Edit10.Text+'%');
+      DM.ADOBarang.Filter :='unitPrice = '+Edit10.Text;
       Dm.ADOBarang.Filtered := True;
     end
   else
