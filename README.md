@@ -14,7 +14,7 @@ THANKS TO :
 
 Environment :
 1. Delphi 7
-2. Component CJV Barcode
+2. Component CJV Barcode (https://github.com/achmadiqsan/CJVBarcode)
 3. Ms. Access 2019 (Database)
 4. Barcode to PC (https://barcodetopc.com/)
 
